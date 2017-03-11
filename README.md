@@ -19,3 +19,4 @@
    Adam
 
 este raz
+MNIS01 modifikacia

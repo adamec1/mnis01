@@ -1,4 +1,4 @@
-
+﻿
 ## Odovzdanie úlohy Git a GitHub
    * Vytvorte Fork z repozitára https://github.com/martin-ukf/mnis01
    * Vyklonujte repozitár na svoj lokálny počítač
@@ -17,3 +17,5 @@
 
    Ahojte :) 
    Adam
+
+este raz
